@@ -1,6 +1,7 @@
 /* STYLESHEET FOR ProjectName/Index */
 
 a {
+  color: white;
   font-size: 18px;
 }
 
@@ -34,6 +35,7 @@ footer {
   text-align: left;
 }
 
-footer a {
+#home, #designed {
+  background-image: url("../the-flatiron-building.png");
   color: white;
 }
