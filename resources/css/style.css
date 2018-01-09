@@ -9,16 +9,31 @@ body {
   color: black;
   font-family: Helvetica, sans-serif;
   font-size: 14px;
+  text-align: center;
 }
 
 h1 {
   font-size: 70px;
+  font-weight: bold;
 }
 
 h2 {
   font-size: 32px;
+  font-weight: bold;
 }
 
 h3 {
   font-size: 23px;
+  font-weight: bold;
+}
+
+footer {
+  background-color: dimgray;
+  color: white;
+  font-size: 11px;
+  text-align: left;
+}
+
+footer a {
+  color: white;
 }
